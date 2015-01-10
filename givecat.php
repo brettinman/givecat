@@ -1,5 +1,6 @@
 <?php
 
+// insert your client id for imgur api access
 $client_id = 'your_client_id';
 
 $url = 'https://api.imgur.com/3/gallery/r/lolcats/';
